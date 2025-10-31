@@ -10,7 +10,6 @@ It integrates **IoT data**, **machine learning**, and **real-time visualization*
 - ML-based condition classification: *Normal*, *Maintenance Advised*, *Critical Fault / Molten Salt Leak*.  
 - Dynamic Streamlit dashboard with heatmaps, charts, and KPIs.  
 - CO₂ saving and life-extension estimation.  
-- MQTT broker-ready for live data integration.  
 
 ---
 
