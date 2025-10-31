@@ -1,0 +1,10 @@
+streamlit==1.39.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.2
+joblib==1.4.2
+plotly==5.24.1
+matplotlib==3.9.2
+paho-mqtt==1.6.1
+requests==2.32.3
+python-dotenv==1.0.1
